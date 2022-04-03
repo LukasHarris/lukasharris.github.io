@@ -1,2 +1,5 @@
 # lukasharris.github.io
-Luke Harris Portfolio Website
+Luke's portfolio website for Northcoders Bootcamp
+
+# Hosted Version
+https://lukasharris.github.io/
