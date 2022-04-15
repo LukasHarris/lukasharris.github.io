@@ -111,19 +111,21 @@ nav {
   
   /* Remove style for desktop > 768px*/
   nav li:first-child {
-      text-align: left;
-      /* flex-basis: 20%; */
-    /* border: 1px solid var(--error-colour); */
+    /* text-align: left;
+    flex-basis: 25%; */
+    /*border: 1px solid var(--hotmag); */
+    flex-basis: 100%;
+    text-align: center;
   }
   
   nav a {
-    color: var(--magenta);
+    color: var(--white);
     text-decoration: none;
     display: block;
   }
   
   nav a:hover {
-    color: var(--hotmag);
+    color: var(--magenta);
   }
 
 /* Footer Styles */
@@ -150,8 +152,8 @@ footer ul {
     /* body {
       background-color: var(--colour5);
     } */
-    nav li:first-child {
-        text-align: center;
-        flex-basis: 100%;
+     nav li:first-child {
+        flex-basis: 25%;
+        text-align: left;
     }
   }
